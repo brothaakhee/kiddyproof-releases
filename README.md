@@ -5,6 +5,14 @@
 This repo hosts the public binaries and release feed for
 [kiddyproof.app](https://kiddyproof.app). The source is private.
 
+## Install with Homebrew
+
+```sh
+brew install --cask brothaakhee/tap/kiddyproof
+```
+
+Or download the DMG directly:
+
 **[⬇ Download the latest DMG](https://github.com/brothaakhee/kiddyproof-releases/releases/latest/download/kiddyproof.dmg)**
 
 - macOS 14 Sonoma or later, Apple Silicon
